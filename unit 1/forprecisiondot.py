@@ -1,0 +1,5 @@
+print(" pi is approximately {0:2}".format(22/7))
+print("pi is approximately {0:12f}".format(22/7))
+print("pi is aprroximatley {0:12.50f}".format(22/7))
+print("pi is approximatley is {0:72.60f}".format(22/7))
+print("pi is approximatley is {0:50.12f}".format(22/7))
