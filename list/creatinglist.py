@@ -1,0 +1,10 @@
+empty=[]
+even=[2,4,6,8]
+odd=[1,3,5,7,9]
+empty=sorted(even+odd)
+print(empty)
+digits=sorted("432985617")
+print(digits)
+digits=list("432985617")
+more_numbers=list(empty)
+print(more_numbers)
