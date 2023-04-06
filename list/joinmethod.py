@@ -1,0 +1,12 @@
+flowers=["rose",
+         "sunflower",
+         "lotus",
+         "iris",
+         "lavender",
+          "tigerlily",
+         ]
+seperated="|"
+output=seperated.join(flowers)
+output1=",".join(flowers)
+print(output)
+print(output1)
